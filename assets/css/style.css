@@ -135,7 +135,7 @@ section {
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
-    border-bottom:3px solid;
+    border-bottom: 3px solid;
 }
 .primary-border {
     border-color: #fce138;
@@ -150,6 +150,11 @@ section {
     width: 15%;
     margin: 10px 0;
 }
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+
 .steps h3 {
     color: #024e76;
     font-size: 46px;
