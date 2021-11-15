@@ -37,11 +37,9 @@ header nav ul li a {
     font-weight: lighter;
     front-size: 22px;
 }
-header h1 {
-    font-weight: bold;
-    font-size: 36px;
+.contact h3 {
+    font-size: 32px;
     color: #fce138;
-    margin: 0;
     display: inline;
 }
 footer {
